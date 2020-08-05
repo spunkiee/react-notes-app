@@ -1,0 +1,26 @@
+.side-bar-menu {
+    width: 18%;
+    height: 50px;
+    border-radius: 0% 50px 50px 0;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.image {
+    margin: 10px 20px 10px 30px;
+}
+
+.text {
+    margin-left: 20px;
+}
+
+.notes-hover:hover {
+    background-color:#f1f3f4;
+}
+
+.notes-color {
+    background-color: #feefc3;
+}
